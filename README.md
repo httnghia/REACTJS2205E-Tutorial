@@ -1,28 +1,28 @@
 # REACTJS2205E
 Git Tutorial
 
-## 1. Cài Đặt Tool Code
+## 1. Setup Code Tool
     Sublime text 3
     Visual Studio Code
     Notepad
     Vim
 
-## 2. Cài Git Bash
+## 2. Install Git Bash
 
-## 3. Tạo file html và chạy file
+## 3. Create HTML fikle and run file
 
-## 4. Tạo tài khoản github.com
+## 4. Create github.com account
 
-## 5. Tạo repository (repo)
+## 5. Create repository (repo)
 
-## 6. Kéo repo về local
-    git clone <duong_dan_toi_repo>
+## 6. Pull repo to local
+    git clone <path_to_repo>
 
-    vd: git clone git@github.com:nghiatthuynh/rj2205-tutorial.git
-    hoac: git clone https://github.com/nghiatthuynh/rj2205-tutorial.git
+    ex: git clone git@github.com:nghiatthuynh/REACTJS2205E-Tutorial.git
+    or: git clone https://github.com/nghiatthuynh/REACTJS2205E-Tutorial.git
 
-## 7. Đẩy code lên github
-    git status // kiem tra trang thai
-    git add . // them vao stage
-    git commit -m "Create index.html file" // tao commit moi
-    git push origin main // day code len github
+## 7. Push code to github
+    git status // check status
+    git add . // add to stage
+    git commit -m "Create index.html file" // create new commit
+    git push origin main // push code to github
